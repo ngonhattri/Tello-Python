@@ -1,0 +1,49 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-11 10:48:47.689164
+end_time: 2022-11-11 10:48:47.737985
+duration: 0.048821
+
+id: 1
+command: mon
+response: b'ok'
+start time: 2022-11-11 10:48:47.738022
+end_time: 2022-11-11 10:48:47.782773
+duration: 0.044751
+
+id: 2
+command: mdirection 0
+response: b'ok'
+start time: 2022-11-11 10:48:47.782803
+end_time: 2022-11-11 10:48:47.840048
+duration: 0.057245
+
+id: 3
+command: takeoff
+response: b'ok'
+start time: 2022-11-11 10:48:47.840094
+end_time: 2022-11-11 10:48:54.113346
+duration: 6.273252
+
+id: 4
+command: jump 100 100 100 60 100 m1 m2
+response: b'error No valid marker'
+start time: 2022-11-11 10:48:56.118630
+end_time: 2022-11-11 10:48:56.198441
+duration: 0.079811
+
+id: 5
+command: go 100 100 100 60 m1
+response: b'ok'
+start time: 2022-11-11 10:48:56.198478
+end_time: 2022-11-11 10:48:59.768503
+duration: 3.570025
+
+id: 6
+command: land
+response: b'ok'
+start time: 2022-11-11 10:48:59.768530
+end_time: 2022-11-11 10:49:04.109457
+duration: 4.340927

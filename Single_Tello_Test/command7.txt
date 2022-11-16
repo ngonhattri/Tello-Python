@@ -1,0 +1,14 @@
+command
+mon
+mdirection 0
+takeoff 
+delay 1
+jump 100 0 100 60 180 m1 m2
+delay 1
+jump 100 0 100 60 180 m2 m3
+delay 1
+jump 100 0 100 60 180 m3 m4
+delay 1
+jump 100 0 100 60 180 m4 m1
+delay 1
+land

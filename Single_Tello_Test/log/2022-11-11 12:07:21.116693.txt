@@ -1,0 +1,63 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-11 12:07:21.117042
+end_time: 2022-11-11 12:07:21.133091
+duration: 0.016049
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2022-11-11 12:07:21.133111
+end_time: 2022-11-11 12:07:27.278564
+duration: 6.145453
+
+id: 2
+command: down 20
+response: b'ok'
+start time: 2022-11-11 12:07:28.283813
+end_time: 2022-11-11 12:07:30.567368
+duration: 2.283555
+
+id: 3
+command: foward 100
+response: b'unknown command: foward'
+start time: 2022-11-11 12:07:31.572569
+end_time: 2022-11-11 12:07:31.593663
+duration: 0.021094
+
+id: 4
+command: up 70
+response: b'ok'
+start time: 2022-11-11 12:07:32.598901
+end_time: 2022-11-11 12:07:35.259480
+duration: 2.660579
+
+id: 5
+command: foward 100
+response: b'unknown command: foward'
+start time: 2022-11-11 12:07:36.264718
+end_time: 2022-11-11 12:07:36.285495
+duration: 0.020777
+
+id: 6
+command: down 70
+response: b'ok'
+start time: 2022-11-11 12:07:37.290743
+end_time: 2022-11-11 12:07:39.900978
+duration: 2.610235
+
+id: 7
+command: foward 100
+response: b'unknown command: foward'
+start time: 2022-11-11 12:07:40.906217
+end_time: 2022-11-11 12:07:40.978417
+duration: 0.0722
+
+id: 8
+command: land
+response: b'ok'
+start time: 2022-11-11 12:07:41.980717
+end_time: 2022-11-11 12:07:45.262096
+duration: 3.281379

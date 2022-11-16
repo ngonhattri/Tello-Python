@@ -1,0 +1,56 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-10-21 11:38:01.748480
+end_time: 2022-10-21 11:38:01.786061
+duration: 0.037581
+
+id: 1
+command: takeoff
+response: b'error'
+start time: 2022-10-21 11:38:01.786141
+end_time: 2022-10-21 11:38:01.836488
+duration: 0.050347
+
+id: 2
+command: up 50
+response: b'error Motor stop'
+start time: 2022-10-21 11:38:03.842262
+end_time: 2022-10-21 11:38:03.934404
+duration: 0.092142
+
+id: 3
+command: forward 100
+response: b'error Motor stop'
+start time: 2022-10-21 11:38:05.939717
+end_time: 2022-10-21 11:38:06.018684
+duration: 0.078967
+
+id: 4
+command: cw 180
+response: b'error Motor stop'
+start time: 2022-10-21 11:38:08.024357
+end_time: 2022-10-21 11:38:08.134030
+duration: 0.109673
+
+id: 5
+command: forward 100
+response: b'error Motor stop'
+start time: 2022-10-21 11:38:10.139413
+end_time: 2022-10-21 11:38:10.207189
+duration: 0.067776
+
+id: 6
+command: down 50
+response: b'error Motor stop'
+start time: 2022-10-21 11:38:12.212484
+end_time: 2022-10-21 11:38:12.300134
+duration: 0.08765
+
+id: 7
+command: land
+response: b'error'
+start time: 2022-10-21 11:38:14.305497
+end_time: 2022-10-21 11:38:14.339122
+duration: 0.033625

@@ -1,0 +1,63 @@
+
+id: 0
+command: command
+response: b'ok'
+start time: 2022-11-11 12:09:12.636495
+end_time: 2022-11-11 12:09:12.675110
+duration: 0.038615
+
+id: 1
+command: takeoff
+response: b'error'
+start time: 2022-11-11 12:09:12.675152
+end_time: 2022-11-11 12:09:12.726876
+duration: 0.051724
+
+id: 2
+command: down 20
+response: b'ok'
+start time: 2022-11-11 12:09:13.732669
+end_time: 2022-11-11 12:09:15.633358
+duration: 1.900689
+
+id: 3
+command: forward 100
+response: b'ok'
+start time: 2022-11-11 12:09:16.634613
+end_time: 2022-11-11 12:09:19.211794
+duration: 2.577181
+
+id: 4
+command: up 70
+response: b'ok'
+start time: 2022-11-11 12:09:20.216929
+end_time: 2022-11-11 12:09:22.740154
+duration: 2.523225
+
+id: 5
+command: forward 100
+response: b'error Motor stop'
+start time: 2022-11-11 12:09:23.741053
+end_time: 2022-11-11 12:09:38.190374
+duration: 14.449321
+
+id: 6
+command: down 70
+response: b'error Motor stop'
+start time: 2022-11-11 12:09:39.191214
+end_time: 2022-11-11 12:09:39.316365
+duration: 0.125151
+
+id: 7
+command: forward 100
+response: b'error Motor stop'
+start time: 2022-11-11 12:09:40.321578
+end_time: 2022-11-11 12:09:40.368383
+duration: 0.046805
+
+id: 8
+command: land
+response: b'error'
+start time: 2022-11-11 12:09:41.373580
+end_time: 2022-11-11 12:09:41.393393
+duration: 0.019813
