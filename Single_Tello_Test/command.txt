@@ -1,4 +1,13 @@
 command
+delay 10
 takeoff
-delay 5
+delay 10
+forward 100
+delay 10
+flip f
+delay 10
+cw 180
+delay 10
+forward 100
+delay 10
 land

@@ -1,0 +1,63 @@
+
+id: 0
+command: command
+response: None
+start time: 2022-12-02 10:51:08.210996
+end_time: None
+duration: None
+
+id: 1
+command: takeoff
+response: b'ok'
+start time: 2022-12-02 10:51:08.211460
+end_time: 2022-12-02 10:51:08.444837
+duration: 0.233377
+
+id: 2
+command: down 20
+response: b'error Not joystick'
+start time: 2022-12-02 10:51:09.216528
+end_time: 2022-12-02 10:51:09.945506
+duration: 0.728978
+
+id: 3
+command: forward 100
+response: b'error Not joystick'
+start time: 2022-12-02 10:51:10.222360
+end_time: 2022-12-02 10:51:10.982334
+duration: 0.759974
+
+id: 4
+command: up 70
+response: b'error Not joystick'
+start time: 2022-12-02 10:51:11.227338
+end_time: 2022-12-02 10:51:11.784194
+duration: 0.556856
+
+id: 5
+command: forward 100
+response: b'error Not joystick'
+start time: 2022-12-02 10:51:12.233818
+end_time: 2022-12-02 10:51:12.802536
+duration: 0.568718
+
+id: 6
+command: down 70
+response: b'ok'
+start time: 2022-12-02 10:51:13.236493
+end_time: 2022-12-02 10:51:13.877012
+duration: 0.640519
+
+id: 7
+command: forward 100
+response: b'error Not joystick'
+start time: 2022-12-02 10:51:14.245417
+end_time: 2022-12-02 10:51:14.845640
+duration: 0.600223
+
+id: 8
+command: land
+response: None
+start time: 2022-12-02 10:51:15.253280
+end_time: None
+duration: None
